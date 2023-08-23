@@ -8,7 +8,7 @@ The final project presentations will be Saturday, December 9, 2023 from 9:00AM-1
 
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
-| 0. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-202e/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2021-08-28 | Not available |
+| 0. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2021-08-28 | Not available |
 
 ## Calendar
 
