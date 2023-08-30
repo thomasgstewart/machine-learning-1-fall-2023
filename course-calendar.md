@@ -18,7 +18,24 @@ Material in `monospaced font` are in the course Teams site.  The letter H denote
 |---|:---|:---|
 | | Data types | `01-data-types` |
 | | Course overview | |
-| | **Linear Algebra Review**| |
+|2023-08-28 | **Linear Algebra Review**| C Appendix A, C Appendix B, C 1 |
+| | → Vector space |  |
+| | → Vector subspace |  |
+| | → Matrix as a function |  |
+| | → Span |  |
+| | → Column space |  |
+| | → Linear dependence |  |
+| | → Basis |  |
+| | → Rank |  |
+| | →→ Uniqueness |  |
+| | → Sum of subspaces| |
+| | →→ Uniqueness |  |
+| | → Orthogonal vectors |  |
+| | → Orthogonal basis |  |
+| | → Orthonormal basis |  |
+| | → Gram-Schmidt |  |
+| | → Orthogonal complement |  |
+| | →→ Decomposition of vector space into subspace and orthogonal complement |  |
 | | **Linear Regression** | |
 | | Model formulation | |
 | | Bayesian vs MLE | |
