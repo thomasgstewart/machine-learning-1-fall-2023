@@ -9,8 +9,8 @@ The final project presentations will be Saturday, December 9, 2023 from 9:00AM-1
 | Title | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | 1. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2023-08-28 | Not available |
-| 2. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/misc/linear-independence.pdf">Linear independence</a> | 2023-09-01 | |
-| 3. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/03-appendix-a-exercises.md">Appendix A Exercises</a> | 2023-09-04 (at least get started) | |
+| 2. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/misc/linear-independence.pdf">Linear independence</a> | 2023-09-04 | |
+| 3. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/03-appendix-a-exercises.md">Appendix A Exercises</a> | 2023-09-08 | |
 
 ## Calendar
 
