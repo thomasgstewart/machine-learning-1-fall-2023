@@ -1,0 +1,75 @@
+---
+title: "HW - Nonlinearity"
+author: 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(rms)
+require(splines2)
+```
+
+# Q1
+
+From RMS section 2.9 question 5.
+
+In “The Class of 1988: A Statistical Portrait,” the College Board reported
+mean SAT scores for each state.  The data is available online.
+
+```{r, echo = FALSE}
+d1 <- read.csv("https://biostat.app.vumc.org/wiki/pub/Main/MsciBiostatIIAssignments/sat.csv")
+```
+
+a. Fit a linear spline model.  See `?lsp` in the `rms` package to learn how to specify the knots.
+
+```{r}
+m1 <- ols(score ~ lsp(pct,???), data = d1)
+```
+
+b. Describe the strategy you used to determine the number and placement of the knots.
+
+c. Create a partial effect plot of the model.
+
+d. Write down the model.  (You don't need to plug-in the values of $\beta$.)
+
+$$
+\begin{aligned}
+E[??|??] &= ??\\
+V[??|??] &= ??
+\end{aligned}
+$$
+
+e. What is the interpretation of $\beta_2$ in your model?
+
+f. Fit the same data, but with a natural cubic splines.  Generate a partial effect plot of the model.  See `?nsp` in the `splines2` package to learn how to specify the knots.
+
+```{r}
+m2 <- lm(score ~ nsp(pct,???), data = d1)
+```
+
+g. Describe how you selected the location and number of knots in part f.
+
+h. Using the function you estimated in part f, create a plot of derivates similar to the [one posted here](https://hbiostat.org/rmsc/genreg#cubic-spline-functions). 
+
+i. Fit the same data, but with a restricted cubic splines.  Generate a partial effect plot of the model.
+
+```{r}
+m3 <- ols(score ~ rcs(pct,???), data = d1)
+```
+
+j. Describe how you selected the location and number of knots in part i.
+
+k. Using the function you estimated in part i, create a plot of derivates similar to the [one posted here](https://hbiostat.org/rmsc/genreg#cubic-spline-functions). 
+
+l. Using the plots from h and k, how are models `m2` and `m3` different?
+
+m. Create 3 plots, one for each model, which shows the basis functions you used in the model.
+
+# Submission instructions
+
+1.  Within your course repo, create a folder called `04-nonlinear`
+1.  Within the folder, create an .html or .pdf file with your solutions.
+1.  Be prepared to share your solutions with the class when the deliverable is due
+1.  The deliverable should be your own work.  You may **discuss**
+    concepts with classmates, and you may **share** code or text.
