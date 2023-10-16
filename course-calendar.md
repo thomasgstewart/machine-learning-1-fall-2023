@@ -11,6 +11,8 @@ The final project presentations will be Saturday, December 9, 2023 from 9:00AM-1
 | 1. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2023-08-28 | Not available |
 | 2. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/misc/linear-independence.pdf">Linear independence</a> | 2023-09-04 | |
 | 3. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/03-appendix-a-exercises.md">Appendix A Exercises</a> | 2023-09-08 | |
+| 4. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/04-nonlinear.rmd">Nonlinear</a> | 2023-10-02 | |
+| 5. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/05-pca.md">PCA</a> | 2023-10-18 | |
 
 ## Calendar
 
@@ -39,10 +41,10 @@ Material in `monospaced font` are in the course Teams site.  The letter H denote
 | | → Orthogonal complement |  |
 | | →→ Decomposition of vector space into subspace and orthogonal complement |  |
 | | **Linear Regression** | |
-| | Model formulation | |
-| | Bayesian vs MLE | |
-| | Interactions | |
-| | Nonlinearity | |
+| | Model formulation | Slides in Teams |
+| | Bayesian vs MLE | Slides in Teams |
+| | Interactions | Slides in Teams |
+| | Nonlinearity | Slides in Teams |
 | | Measures of model performance | |
 | | → Discrimination |  |
 | | → Calibration |  |
