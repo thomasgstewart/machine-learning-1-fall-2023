@@ -13,6 +13,10 @@ The final project presentations will be Saturday, December 9, 2023 from 9:00AM-1
 | 3. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/03-appendix-a-exercises.md">Appendix A Exercises</a> | 2023-09-08 | |
 | 4. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/04-nonlinear.rmd">Nonlinear</a> | 2023-10-02 | |
 | 5. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/05-pca.md">PCA</a> | 2023-10-18 | |
+| 6. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/06-constrained-kernel-methods.md">Constrained kernel</a> | 2023-10-18 | |
+| 7. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/07-optimism.md">Optimism</a> | 2023-12-05 | |
+| 8. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/08-ordinal-regression-model.md">Ordinal regression model</a> | 2023-12-05 | |
+| 9. <a class = "callink" href = "https://github.com/thomasgstewart/machine-learning-1-fall-2023/blob/main/deliverables/09-logistic-regression.md">Logistic regression model</a> | 2023-12-05 | |
 
 ## Calendar
 

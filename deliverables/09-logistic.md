@@ -21,6 +21,6 @@ Suppose death at 6 months is the primary endpoint.
 
 ### Submission instructions
 
-1.  Within your course repo, create a folder called `06-logistic`
+1.  Within your course repo, create a folder called `09-logistic`
 1.  Within the folder, create an .html solution file with the name
     `writeup`
