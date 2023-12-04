@@ -15,7 +15,7 @@ Students will plan, execute, and present a data analysis on a question of your t
 1.  Address model selection and fit.
 1.  Use graphical displays in both the report and the presentation.
     
-During the final exam period, students will present their comparative analysis to the class, giving particular emphasis to the strengths and weaknesses of the approach.
+During the final exam period, students will present their analysis to the class, giving particular emphasis to the strengths and weaknesses of the approach.
 
 Students will be graded on both the clarity with which they explain course concepts and their approach in the data analysis.
 
